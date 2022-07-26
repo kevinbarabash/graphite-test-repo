@@ -5,3 +5,9 @@
   - subitem b
 - item 2
 - item 3
+
+## subsection
+
+- [x] foo
+- [x] bar
+- [ ] baz
